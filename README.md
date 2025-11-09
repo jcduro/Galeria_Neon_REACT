@@ -12,7 +12,7 @@ Una galería de imágenes interactiva hecha con **React puro** (sin frameworks c
 
 ✨ Pruebalo Online
 
-[HangMan](https://jcduro.bexartideas.com/proyectos/gallery_react/index.html)
+[Galería_Neon](https://jcduro.bexartideas.com/proyectos/gallery_react/index.html)
 
 --- 
 
