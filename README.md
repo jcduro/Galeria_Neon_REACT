@@ -6,7 +6,7 @@ Una galería de imágenes interactiva hecha con **React puro** (sin frameworks c
 
 🖼️ Vista previa
 
-![Galería_Neon](preview.gif)
+![Gallery_Neon](preview.gif)
 
 --- 
 
