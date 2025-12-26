@@ -6,13 +6,13 @@ Una galería de imágenes interactiva hecha con **React puro** (sin frameworks c
 
 🖼️ Vista previa
 
-![Gallery_Neon](preview.gif)
+![Gallery_Neon](previewreact.gif)
 
 --- 
 
 ✨ Pruebalo Online
 
-[Galería_Neon](https://jcduro.bexartideas.com/proyectos/gallery_react/index.html)
+[Galería_Neon](https://jcduro.bexartideas.com/proyectos/dashjc/gallery_react/gallery.php)
 
 --- 
 
