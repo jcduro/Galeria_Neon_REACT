@@ -1,16 +1,16 @@
-# Galería Neon React Puro
+## Galería Neon React Puro
 
 Una galería de imágenes interactiva hecha con **React puro** (sin frameworks como Create React App ni herramientas externas), con efectos *neón*, navegación en modal y fondo adaptable a cualquier pantalla.
 
 ---
 
-🖼️ Vista previa
+## 🖼️ Vista previa
 
 ![Gallery_Neon](previewreact.gif)
 
 --- 
 
-✨ Pruebalo Online
+## ✨ Pruebalo Online
 
 [Galería_Neon](https://jcduro.bexartideas.com/proyectos/dashjc/gallery_react/gallery.php)
 
